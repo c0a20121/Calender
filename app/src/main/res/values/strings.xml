@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calender</string>
+    <string name="title">タイトル</string>
+    <string name="contents">内容</string>
+    <string name="reg">登録</string>
+    <string name="del">削除</string>
+    <string name="cancel">キャンセル</string>
+    <string name="route">経路</string>
+</resources>
